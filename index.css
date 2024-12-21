@@ -1,0 +1,14 @@
+#label{
+    display:block;
+    text-align:center;
+    font-size: 10em;
+}
+#container{
+ text-align: center;
+}
+.btn{
+    padding:10px 20px;
+    font: size 1.5em;
+    color: aqua3;
+    background-color:rgb(41, 142, 76);
+}
